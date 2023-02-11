@@ -24,3 +24,6 @@ df["severe_damage"] = (df["damage_grade"] > 3).astype(int)
 df.drop(columns = ["b_id", "damage_grade"], inplace = True)
 df = df.set_index("building_id")
 df.head()
+
+
+
