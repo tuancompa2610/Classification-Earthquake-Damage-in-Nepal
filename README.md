@@ -22,6 +22,11 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 ## Useage
 The notebook includes all the markdowns which explain the process.
 
+## Report
+| Model | Train accuracy | Val accuracy | Test accuracy|
+| ----- | -------------- | ------------ | ------------ |
+| Logistic Regression | 0.713 | 0.715 | 0.722 |
+| Decision Tree |  0.716 | 0.716 | 0.722 |
 ## Contributing
 1. Fork it
 2. Create your feature branch: `git checkout -b my-new-feature`
