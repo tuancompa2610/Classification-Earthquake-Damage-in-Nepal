@@ -6,6 +6,7 @@
   - [About Repository](#-about-repository)
   - [Installation](#-installation)
   - [Useage](#-useage)
+  - [Report](#-report)
   - [Contribution](#-contribution)
   
 ## About Repository
